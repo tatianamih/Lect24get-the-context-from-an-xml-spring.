@@ -1,0 +1,1 @@
+# Lect24get-the-context-from-an-xml-spring.
